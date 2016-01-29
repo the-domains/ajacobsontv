@@ -2,14 +2,20 @@
     <channel>
         <title><![CDATA[ajacobsontv]]></title>
         <description><![CDATA[ajacobsontv]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ajacobsontv/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Jan 2016 00:32:54 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 29 Jan 2016 00:33:42 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ajacobsontv/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/ajacobsontv/b24ad7bf-f981-438b-bb6b-632b66063c74/index.html</link>
+            <guid isPermaLink="false">b24ad7bf-f981-438b-bb6b-632b66063c74</guid>
+            <pubDate>Fri, 29 Jan 2016 00:33:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Alexander Jacobson is a professional videographer from Metro Detroit, with experience in directing, producing, cinematography, lighting, sound, glidecam operation, editing, sound design, graphic design, and motion graphics. </p>]]></description>
-            <link>undefined8dbc046b-fd4b-4f3e-841b-9fd36454e411/index.html</link>
+            <link>https://thegrid.ai/ajacobsontv/8dbc046b-fd4b-4f3e-841b-9fd36454e411/index.html</link>
             <guid isPermaLink="false">8dbc046b-fd4b-4f3e-841b-9fd36454e411</guid>
             <pubDate>Fri, 29 Jan 2016 00:32:32 GMT</pubDate>
         </item>
