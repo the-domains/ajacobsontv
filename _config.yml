@@ -1,7 +1,7 @@
 name: ajacobsontv
 favicon: null
-layout_spectrum: 0.7522003932390362
-typography_spectrum: 0.002803038340061903
+layout_spectrum: 0.49917
+typography_spectrum: 0.80003
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.23450442939065397
-  lightness: 0.9657588531263173
-  saturation: 0.1058269941713661
-  rhythmicContrast: 0.9126993464305997
+  brandStrength: 0.3125
+  lightness: 0
+  saturation: 0.125
+  rhythmicContrast: 0.75
 purpose: []
